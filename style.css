@@ -1,0 +1,22 @@
+.navbar {
+    font-family: 'Play', sans-serif;
+    font-size: large;
+    justify-content: center;
+}
+
+.btn {
+    margin: 2px 4px;
+}
+
+.carousel-item {
+    height: 42rem;
+    background-color: #777;
+    color: white;
+    position: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#listing {
+    background: linear-gradient(to top, rgb(114, 106, 224) 10%, white 150%) no-repeat;
+}
